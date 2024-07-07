@@ -1,2 +1,3 @@
-# Heading 1
-Used Only Html and Css
+# Language are Used:
+ 1. HTML
+ 2. CSS (vanilla)
